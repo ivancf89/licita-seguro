@@ -1,0 +1,1 @@
+console.log("Bienvenido a Licitaseguro - Página de inicio.");
