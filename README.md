@@ -53,3 +53,5 @@ git clone https://github.com/ivancf89/licita-seguro/
 cd Licitaseguro
 
 2. Abre index.html con Live Server (VSCode recomendado)
+
+##Trabajo realizado por Sebastián Márquez Kuzina - Iván Campos Farfán - Cesar Rubilar Sanhueza
